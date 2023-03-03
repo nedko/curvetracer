@@ -1,0 +1,8 @@
+https://github.com/nedko/curvetracer
+
+A transistor curve tester with UART/USB connected UI.
+
+Havily inspired and based on other projects:
+
+ * http://ivatv.narod.ru/avtomatika/Page/15.htm[В.А. Иноземцев, С.В. Иноземцева, М.Н. Степанищева, Лабораторный практикум по основам автоматики, Цифро-аналоговый преобразователь (ЦАП) в характериографе для транзисторов]
+ * https://www.dl4jal.de/kls/kls.html[DL4JAL, Projekt Kennlinienschreiber]
